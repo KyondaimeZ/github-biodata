@@ -16,3 +16,29 @@ Pengalaman Koding: Sudah Ada
 Alasan Ikut Bootcamp: Ingin menjadi programmer handal di dunia
 Siap Mengikuti Bootcamp 4 bulan: Siap
 ```
+  
+Cara clone repo
+  
+```js
+git clone https://github.com/Mini-Bootcamp-Batch-1-WPL/github-biodata.git
+```
+
+Cara buat branch baru
+```js
+git checkout -b <nama kalian>
+```
+
+Cara add perubahan
+```js
+git add .
+```
+
+Cara commit
+```js
+git commit -m "Tugas pengisian biodata"
+```
+
+Cara push ke github
+```js
+git push origin <nama kalian>
+```
