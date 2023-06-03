@@ -35,7 +35,7 @@ git add .
 
 Cara commit
 ```js
-git commit -m "Tugas pengisian biodata"
+git commit -m "<nama kalian> - Tugas pengisian biodata"
 ```
 
 Cara push ke github
